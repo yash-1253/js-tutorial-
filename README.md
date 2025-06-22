@@ -1,2 +1,2 @@
 # js-tutorial-
-ChatGPT said: Learning JavaScript to build interactive web apps. Exploring DOM, ES6+, and real projects to grow as a developer.
+Learning JavaScript to build interactive web apps. Exploring DOM, ES6+, and real projects to grow as a developer.
